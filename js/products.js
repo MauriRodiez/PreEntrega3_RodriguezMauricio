@@ -13,16 +13,16 @@ let products = [
     {
         id: 3,
         name: "Mordillo",
-        price: 150
+        price: 160
     },
     {
         id: 4,
         name: "Alimento balanceado",
-        price: 150
+        price: 700
     },
     {
         id: 5,
         name: "Shampoo",
-        price: 150
+        price: 320
     }
 ]
